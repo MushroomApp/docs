@@ -5,6 +5,8 @@ body {
   font-size: 1em;
   line-height: 1.2em;
   -webkit-font-smoothing: antialiased;
+  margin: 0;
+  padding: 0;
 }
 h2 {
   color: #333333;
@@ -13,4 +15,7 @@ h2 {
 }
 a {
   color: #999999;
+}
+#content {
+  padding: 10px;
 }
