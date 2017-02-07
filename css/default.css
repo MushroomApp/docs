@@ -1,5 +1,5 @@
 body {
-  color: #999999;
+  color: #444;
   background: #ffffff;
   font-family: "Segoe UI", Helvetica, Arial, sans-serif;
   font-size: 1em;
@@ -17,5 +17,5 @@ a {
   color: #999999;
 }
 #content {
-  padding: 10px;
+  padding: 5px 10px;
 }
