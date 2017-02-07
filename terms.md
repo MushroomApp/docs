@@ -4,7 +4,7 @@ layout: default
 category: EN
 ---
 
-**Please read these mushroom Terms of Use with care** before You make use of the mushroom Service, which is located at [www.mushroom.com](https://www.mushroom.com) (the “**Site**”) and also available as a mobile application (the “**App**”).  We'll refer to You here as "You” and “Your.” We will refer to mushroom, Inc. as “mushroom,” “we,” “us” or “our”.
+**Please read these mushroom Terms of Use with care** before You make use of the mushroom Service, which is located at [www.mushroomapp.io](https://www.mushroomapp.io) (the “**Site**”) and also available as a mobile application (the “**App**”).  We'll refer to You here as "You” and “Your.” We will refer to mushroom, Inc. as “mushroom,” “we,” “us” or “our”.
 
 These mushroom Terms of Use as they may be subsequently amended  (“**Terms of Use**” or “Terms”) outline the terms and conditions applicable to Your use of the mushroom Service and any related services, aspects, functions, software platforms and derivatives of the mushroom Service (collectively, the "**Service**").
 
@@ -29,7 +29,7 @@ We take responsibility for what we have created, and You agree to take responsib
 
 In order to access some features of the Service, and to be able to Submit (as that term is defined below) Content as a broadcaster, You will have to create a mushroom account via Your Facebook®, Google+®, Twitter®, or Instagram® account, using the same information provided to one of those networks (the “mushroom Account”). You can alter such information by updating Your Facebook®, Google+®, Twitter®, or Instagram® account (this will automatically update Your mushroom Account the next time You log in). You also may alter Your mushroom Account information by logging into the Service and accessing Your settings.
 
-You agree not to share Your mushroom Account password or let others have access to Your Account and You will not attempt to transfer Your mushroom Account to anyone else. You are responsible for the activity that happens on or through Your account, so we urge You to keep Your account password secure and to always log-off when leaving Your computer or mobile device unattended. Although mushroom will not be liable for losses caused by any unauthorized use of Your mushroom Account, You may be liable for the losses of mushroom or others due to unauthorized use.  We strongly recommend that You notify us immediately of unauthorized use of Your mushroom Account or of any related security breach by contacting us at support@mushroom.com. If for any reason You want to limit Your children's access to the Service, there are a number of commercially available parental control protections.
+You agree not to share Your mushroom Account password or let others have access to Your Account and You will not attempt to transfer Your mushroom Account to anyone else. You are responsible for the activity that happens on or through Your account, so we urge You to keep Your account password secure and to always log-off when leaving Your computer or mobile device unattended. Although mushroom will not be liable for losses caused by any unauthorized use of Your mushroom Account, You may be liable for the losses of mushroom or others due to unauthorized use.  We strongly recommend that You notify us immediately of unauthorized use of Your mushroom Account or of any related security breach by contacting us at support@mushroomapp.io. If for any reason You want to limit Your children's access to the Service, there are a number of commercially available parental control protections.
 
 ## 3. **OWNERSHIP OF THE SERVICE**
 
@@ -108,7 +108,7 @@ You are required to keep Your billing information current, complete and accurate
 
 mushroom reserves the right to suspend or terminate Your access to any Subscription-based part of the Service without notice upon rejection of any charges or if the bank or other entity that makes payment on your behalf (or its agent or affiliate) seeks return of payments previously made when mushroom believes Your are liable for the charges. mushroom also reserves the right in its sole discretion to suspend or terminate Your access to any Subscription-based service if You are found, at the sole discretion of mushroom, to be in breach of the Terms of Use, or if You are suspended or banned, for any reason. That being said, You are responsible for canceling Your own Subscription(s) if You are banned from the Service.
 
-You may choose not to renew Your Subscription-based part of the Service at any time by selecting the “Cancel Subscription” option under the Subscriptions page or by contacting support@mushroom.com. Your cancellation is effective at the end of the current Subscription term.
+You may choose not to renew Your Subscription-based part of the Service at any time by selecting the “Cancel Subscription” option under the Subscriptions page or by contacting support@mushroomapp.io. Your cancellation is effective at the end of the current Subscription term.
 
 mushroom reserves the right to change, modify or cancel the Subscription Program as it sees fit. All alterations to the Subscription Program will apply to all participants.
 
@@ -118,13 +118,13 @@ mushroom has the right, but not the obligation, to screen, refuse to post, remov
 
 In addition to any right or remedy that may be available to mushroom under the Terms of Use or applicable law, mushroom expressly reserves the right to suspend, limit or terminate Your access to the Service, at any time with or without notice and with or without cause, including if mushroom determines, in mushroom's sole discretion, that You pose a threat to the Service or its users. In addition, mushroom may refer any information on illegal activities, including Your identity, to the proper authorities.
 
-Given that the Service is provided in real-time, we would appreciate Your help in reporting to us any Content that You believe violates the Terms of Use. Please direct the relevant information, including the IP address used to commit the alleged violation and the date and time of the alleged violation, including the time zone to [support.mushroom.com](https://mushroom.zendesk.com/hc/en-us).
+Given that the Service is provided in real-time, we would appreciate Your help in reporting to us any Content that You believe violates the Terms of Use. Please direct the relevant information, including the IP address used to commit the alleged violation and the date and time of the alleged violation, including the time zone to [support.mushroomapp.io](https://mushroom.zendesk.com/hc/en-us).
 
 ## 10. **FEEDBACK FROM YOU**
 
 While we welcome any feedback or comments from You, please note that any unsolicited ideas, feedback or suggestions pertaining to our business, such as ideas for new or improved products or technologies, website or tool enhancements, processes, materials, marketing plans or new product names, will automatically upon submission become the property of mushroom, without any compensation to You. While under no obligation to review such submissions or to keep such submissions confidential, mushroom may use or redistribute any such submission and its contents for any purpose and in any way it deems fit.
 
-To provide such submissions or feedback, please email [feedback@mushroom.com](mailto:feedback@mushroom.com). 
+To provide such submissions or feedback, please email [feedback@mushroomapp.io](mailto:feedback@mushroomapp.io). 
 
 ## 11. **COPYRIGHT INFRINGEMENT POLICY**
 
@@ -148,7 +148,7 @@ mushroom may notify the owner or administrator of the affected Content so that h
  - A statement from You under the penalty of perjury, that You have a good faith belief that the material was removed or disabled as a result of a mistake or misidentification of the material to be removed or disabled; and
  - Your name, physical address and telephone number, and a statement that You consent to the jurisdiction of a Federal District Court for the judicial district in which Your physical address is located, or if Your physical address is outside of the United States, for any judicial district in which mushroom may be found, and that You will accept service of process from the person who provided notification of allegedly infringing material or an agent of such person.
 
-Notices of claimed infringement and counter-notifications should be directed to the Designated Agent by mailing all required documentation to: mushroom, 1441 Broadway, 14th Floor, New York, NY, ATTN: COPYRIGHT INFRINGEMENT DESIGNATED AGENT or by email to support@mushroom.com with the words "Attn Copyright Infringement Designated Agent" in the subject line.
+Notices of claimed infringement and counter-notifications should be directed to the Designated Agent by mailing all required documentation to: mushroom, 1441 Broadway, 14th Floor, New York, NY, ATTN: COPYRIGHT INFRINGEMENT DESIGNATED AGENT or by email to support@mushroomapp.io with the words "Attn Copyright Infringement Designated Agent" in the subject line.
 
 ## 12. **WARRANTIES AND DISCLAIMERS**
 
@@ -182,7 +182,7 @@ Platform providers, such as Apple Inc. and Google Inc., that make the App availa
 
 ## 15. PRIVACY
 
-To learn more about how mushroom protects Your personal information, please refer to the mushroom [Privacy Policy](https://www.mushroom.com/policy/en/privacy), which is incorporated by and made a part of these Terms of Use.
+To learn more about how mushroom protects Your personal information, please refer to the mushroom [Privacy Policy](https://www.mushroomapp.io/policy/en/privacy), which is incorporated by and made a part of these Terms of Use.
 
 ## 16. ASSIGNMENT
 mushroom may assign this Agreement to its successors, licensees, and affiliates. However, because the subject matter hereof is personal to You and Your Content, you may not assign this Agreement to any person or entity without mushroom’s prior written consent.
