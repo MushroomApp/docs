@@ -3,7 +3,7 @@ title: Privacy Policy
 layout: default
 category: EN
 ---
-Mushroom is committed to safeguarding any personal information that may be collected through our mobile application (the "App," and the "Service") and to ensuring that you are fully informed as to how your personal information will be used. The following policy describes such collection and usage.
+Popsy is committed to safeguarding any personal information that may be collected through our mobile application (the "App," and the "Service") and to ensuring that you are fully informed as to how your personal information will be used. The following policy describes such collection and usage.
 
 ## **WHAT INFORMATION DO WE COLLECT AND HOW WE COLLECT IT**
 
@@ -51,7 +51,7 @@ We use cookies to allow us to automate access and the data entry functions of ou
 
 ## **LINKS**
 
-We may offer links from our App to other Apps or websites, which may be hosted by our partners or by unrelated companies, which we think may be of interest to you. Such websites, services, and apps, including Facebook®, Twitter®, Google®, or Instagram® are not governed by this Privacy Policy and Mushroom makes no representation as to their practices for dealing with your personal information. Mushroom is not responsible for how third party services use and share your personal information. We recommend that you check the privacy policy of any service at the beginning of your visit.
+We may offer links from our App to other Apps or websites, which may be hosted by our partners or by unrelated companies, which we think may be of interest to you. Such websites, services, and apps, including Facebook®, Twitter®, Google®, or Instagram® are not governed by this Privacy Policy and Popsy makes no representation as to their practices for dealing with your personal information. Popsy is not responsible for how third party services use and share your personal information. We recommend that you check the privacy policy of any service at the beginning of your visit.
 
 ## **CHILDREN UNDER THIRTEEN**
 
@@ -59,7 +59,7 @@ This Service is a general audience Service, which is neither designed nor intend
 
 ## **ACCESS, MODIFICATION AND ACCURACY OF INFORMATION COLLECTED**
 
-The information that we collect from you is the same information that you have previously stored in your device. By updating the information in your mobile device, you may be automatically updating the information in your Mushroom account the next time that you log in. You can also access and modify your Mushroom account information directly by logging into Mushroom and clicking the 'Gear Icon'. You may also ask at any time that your preferences as to the type of communications that you receive from us be modified in order to stop receiving them or to be added to our mailing list. You can also do this by clicking on the ‘Gear Icon’, by following the instructions included in each communication or newsletter, or by contacting us directly at privacy@mushroomapp.io.
+The information that we collect from you is the same information that you have previously stored in your device. By updating the information in your mobile device, you may be automatically updating the information in your Popsy account the next time that you log in. You can also access and modify your Popsy account information directly by logging into Popsy and clicking the 'Gear Icon'. You may also ask at any time that your preferences as to the type of communications that you receive from us be modified in order to stop receiving them or to be added to our mailing list. You can also do this by clicking on the ‘Gear Icon’, by following the instructions included in each communication or newsletter, or by contacting us directly at privacy@popsy.io.
 
 ## **RETENTION AND STORAGE OF THE INFORMATION WE COLLECT**
 
@@ -71,18 +71,18 @@ We may change the terms of this Privacy Policy from time to time in order to ref
 
 ## **BUSINESS TRANSFERS**
 
-The information that is collected by Mushroom is considered to be an asset. In the event that Mushroom, any affiliated company, division or portions of its assets are acquired by another company, such information may be one of the transferred assets. We will take reasonable steps to place a notification of such a transfer in the App.
+The information that is collected by Popsy is considered to be an asset. In the event that Popsy, any affiliated company, division or portions of its assets are acquired by another company, such information may be one of the transferred assets. We will take reasonable steps to place a notification of such a transfer in the App.
 
 ## **ACCEPTANCE OF THESE TERMS**
 
-By using our Service, accessing our App or purchasing our products, you are consenting to the practices relating to information collection and use that are described in this Privacy Policy. Please note that the Service is controlled and offered by Mushroom from its facilities in the United States of America. The laws of other countries may differ regarding the access and use of the Mushroom App and how personally identifiable information may be handled. Mushroom makes no representations that the Service is appropriate or available for use in other locations. Those who access or use the Service from other jurisdictions do so at their own volition and consent to Mushroom's collection, storage and use of their personally identifiable information as set forth in this Privacy Policy.
+By using our Service, accessing our App or purchasing our products, you are consenting to the practices relating to information collection and use that are described in this Privacy Policy. Please note that the Service is controlled and offered by Popsy from its facilities in the United States of America. The laws of other countries may differ regarding the access and use of the Popsy App and how personally identifiable information may be handled. Popsy makes no representations that the Service is appropriate or available for use in other locations. Those who access or use the Service from other jurisdictions do so at their own volition and consent to Popsy's collection, storage and use of their personally identifiable information as set forth in this Privacy Policy.
 
 ## **CONTACTING US**
 
-Any requests for access to your information, modification of your information or questions in respect of this Privacy Policy should be sent to the following email address: privacy@mushroomapp.io, 575 7th Avenue New York, NY 10018, USA.
+Any requests for access to your information, modification of your information or questions in respect of this Privacy Policy should be sent to the following email address: privacy@popsy.io, 575 7th Avenue New York, NY 10018, USA.
 
 ## **UNSUBSCRIBING**
 
-If you wish to not receive marketing communications from Mushroom, please contact us at hello@mushroomapp.io.
+If you wish to not receive marketing communications from Popsy, please contact us at hello@popsy.io.
 
-Privacy Policy last updated: February 8th, 2017.
+Privacy Policy last updated: March 27th, 2017.
