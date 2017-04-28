@@ -88,4 +88,4 @@ Any requests for access to your information, modification of your information or
 
 If you wish to not receive marketing communications from Popsy, please contact us at hello@popsy.io.
 
-Privacy Policy last updated: March 27th, 2017.
+Privacy Policy last updated: April 28th, 2017.
