@@ -11,15 +11,18 @@ Our primary purpose in collecting your personal data is to provide you with the 
 
 There are a number of different ways that we may collect personal information from you:
 
- - Registration: When you register to use our Service, we receive certain information about you through your phone number. This information, as indicated during the connection process may include your name, phone number, phone contacts’ phone numbers, phone contacts’ names, and other. This registration process is required for users who would like to use the Service.
+ - Registration: When you register to use our Service, we receive certain information about you through your phone number. This information, as indicated during the connection process may include your name, phone number, phone contacts’ phone numbers, phone contacts’ names, and other on a regular basis. This registration process is required for users who would like to use the Service.
  - Communication from You: When you contact us with questions, concerns or for purposes of customer/technical support, we collect the information contained in your message, which may include your name, contact details and any other personal information you provide.
  - Via Surveys: We may collect your user information through surveys we may conduct from time to time with respect to our services. Participation in and providing information through such surveys is optional.
  - Aggregate Information: Whenever you enter our App our server automatically collects and aggregates information with respect to your visit. In general this aggregate information will not identify you personally, but if we do correlate such information to you, we will treat it in accordance with this Privacy Policy.
+ - Information Others Provide About You: We receive information other people provide us, which may include information about you. For example, when other users you know use our Services, they may provide your phone number from their mobile PhoneBook (just as you may provide theirs), or they may send you a message, send messages to groups to which you belong, or call you.
 
 ## **WHAT WE MIGHT DO WITH THE INFORMATION COLLECTED**
 
 We may use the information provided to us to:
  - Contact you from time to time with critical user or service updates or other information important for our services, or for the support of the service you requested. We may contact you to ensure that the information we have in our records is still correct and to add additional information to complete your profile;
+ - Help you find people you may know that are already using Popsy or who may be on your device PhoneBook so you can connect using Popsy and allow other Popsy users to connect with you.
+ - Enhance your Popsy experience by sending invitations, notifications, or other on your behalf to your PhoneBook contacts or others with whom you may have connections.
  - Receive feedback from you and inquire about any features you would like to see in future products. We may also contact you to ask you about our products and also to inform you of upgrades, technical issues, promotions and new products that you may be interested in;
  - Send you marketing materials that we believe may be of interest to you;
  - Customize, measure and improve our services, content and advertising;
