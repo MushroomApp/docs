@@ -4,7 +4,7 @@ layout: default
 category: EN
 ---
 
-Have questions about Mushroom? Check out the FAQ below to help you get started!
+Have questions about Popsy? Check out the FAQ below to help you get started!
 
 ## **1. What is Popsy?**
 
