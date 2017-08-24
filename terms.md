@@ -25,7 +25,6 @@ As You probably know by now, the Service is a live-video social communications, 
 The Service offers other functions as well that are described in the Terms of Use and in notices and publications from Popsy. Popsy reserves the right in its sole discretion, to change, modify, add, or delete features and functions of the Service at any time.
 We take responsibility for what we have created, and You agree to take responsibility for Your use of our Service as a creator of Content and as a viewer. While You have fun using the Service, we require that You treat others with respect, do not use the Service for anything that would be deemed illegal or obscene and always observe the Golden Rule ("do unto others...").
 
-
 ## 2. **REGISTRATION**
 
 In order to access the features of the Service, and to be able to Submit (as that term is defined below) Content as a broadcaster, You will have to create a Popsy account via Your cellphone number (the “Popsy Account”), and create a username to be assigned to your account. By registering to Popsy, you agree to our data practices, including the collection, use, processing, and sharing of your information, as described within this Terms of Use as well as in our Privacy Policy. By creating a Popsy profile and providing your mobile phone number, you agree to receive text messages and phone calls (from us or our third-party providers) with codes to register for our Services.
@@ -65,7 +64,6 @@ In connection with the exercise of each of the foregoing rights licensed by You,
 
 You hereby release and discharge all claims both known and unknown against, and covenant not to sue, Popsy and Related Parties (defined below) with respect to the use of any Content Submitted by You as authorized by the Terms of Use (including without limitation any claims that such use violates any proprietary right such as copyrights or rights of publicity/privacy).
 
-
 ## 5. **GUEST BROADCASTS**
 
 While using the Service, You may either initiate (as a broadcaster) or participate as a Guest (defined below) in a broadcast through a Guest Broadcast, Submitting chat, or by using another feature of the Service that introduces Content onto the screen (“Guest Broadcasting”). For purposes of the Terms of Use, the initiating broadcaster shall be deemed the “**Host**” of the Guest Broadcast (and shall control the Guest Broadcast) and users contributing to the Guest Broadcast shall be deemed “**Guests**.” For clarity, only users of the Service who have agreed to be bound by the Terms of Use shall be eligible to participate as Guests in Guest Broadcasts.
@@ -76,7 +74,6 @@ For clarity, all right, title and interest in Content Submitted by a Guest to a 
 
 Each Guest and each Host hereby releases and discharges all claims both known and unknown against, and covenants not to sue (a) Popsy and Related Parties; and (b) the Host (if a Guest) and each Guest (if a Host); with respect to any use of any Guest Broadcast as authorized by the Terms of Use (including without limitation any claims that any such use violates any proprietary right of the Host or Guest as applicable, such as copyrights or rights of publicity/privacy).
 
-
 ## 6. **ACCEPTABLE USE POLICY**
 
 You expressly agree that all Content, including without limitation Sponsored Content, that You Submit will not be: (1) defamatory, libelous, abusive, or obscene, and without limitation, shall not include material that encourages conduct that would constitute a criminal offense, give rise to civil liability or otherwise violate any applicable local, state, federal, or international law; (2) infringe on the copyright or any other proprietary right of any person or entity; (3) invade the privacy of any person; (4) contain a virus, worm, Trojan horse, time bomb, or any other harmful program or component; or (5) be otherwise inappropriate or unlawful.
@@ -85,8 +82,15 @@ You also agree that You will not (i) use the Service to spam others or create ma
 
 You agree not to collect or harvest any personally identifiable information, including account names, from the Service, nor to use the communication systems provided by the Service for any commercial solicitation purposes.
 
+## 7. **VIRTUAL CURRENCY** 
 
-## 7. **RIGHT TO SHUT DOWN, DENY OR LIMIT ACCESS, REMOVE CONTENT**
+At times, the Service will permit you to earn and spend Virtual Items. These Virtual Items may come in the form of: (a) virtual currency, including but not limited to virtual coins; or (b) virtual in-Service items, including but not limited to stickers and gifts. These Virtual Items, however, are only being used as shorthand. You do not in fact "own" the Virtual Items, and the amount of any Virtual Item does not refer to any credit balance of real currency or its equivalent. Rather, Popsy grants You a limited license to use the Service, including software programs that include the use of these Virtual Items. You may earn coins in a number of ways, which may include but are not limited, to earning a bonus daily by logging on to the App and redeeming the coins that may be presented to you, by inviting friends to the App or other. Coins may be spent on a user on the platform. All users of the Service who use the Service will be eligible to receive coins and Virtual Items. Earning coins or certain Virtual Items may transform into ‘Likes’ on a user’s account depending on the gift type a user receives. 
+
+Any virtual currency balance shown in your Popsy Account does not constitute a real world balance or reflect any stored value, but instead constitutes a measurement of the extent of Your license to use the Virtual Items within the Service. You will not be able to sell Virtual Items in exchange for virtual or real currency credited back to your Popsy Account, nor will You be able to receive a refund of virtual or real currency for Virtual Items (including any virtual currency), including if Your access to the Service has been suspended, limited or terminated.
+
+Your gift of certain Virtual Items to a user on the Service may, but will not necessarily, appear on screen of the Content You are viewing. Coins and other Virtual Items gifted to users may result in some revenue to them as determined in Popsy’s sole discretion; however, Popsy makes no guarantee that the amount or value of the coins or Virtual Items You may give a user will correlate to the revenue such user may receive from Popsy. 
+
+## 8. **RIGHT TO SHUT DOWN, DENY OR LIMIT ACCESS, REMOVE CONTENT**
 
 Popsy has the right, but not the obligation, to screen, refuse to post, remove or edit the Content (including any Sponsored Content), at any time and for any or no reason at all, in our sole discretion. Popsy takes steps to monitor Content and keep the App, and Service safe, but Popsy cannot guarantee their safety. Popsy reserves the right, but assumes no obligation, to remove Content, which is abusive, illegal or disruptive, or that otherwise fails to comply with the Terms of Use, and to limit or revoke Your access in full or in part to the Service, in our sole discretion, at any time, and for any reason, including, but not limited to reasons such as technical difficulties or violation of the Terms of Use.
 
@@ -94,13 +98,13 @@ In addition to any right or remedy that may be available to Popsy under the Term
 
 Given that the Service is provided in real-time, we would appreciate Your help in reporting to us any Content that You believe violates the Terms of Use. Please direct the relevant information, including the username used to commit the alleged violation and the date and time of the alleged violation, including the time zone to privacy@popsy.io.
 
-## 8. **FEEDBACK FROM YOU**
+## 9. **FEEDBACK FROM YOU**
 
 While we welcome any feedback or comments from You, please note that any unsolicited ideas, feedback or suggestions pertaining to our business, such as ideas for new or improved products or technologies, website or tool enhancements, processes, materials, marketing plans or new product names, will automatically upon submission become the property of Popsy, without any compensation to You. While under no obligation to review such submissions or to keep such submissions confidential, Popsy may use or redistribute any such submission and its contents for any purpose and in any way it deems fit.
 
 To provide such submissions or feedback, please email [feedback@popsy.io](mailto:feedback@popsy.io).
 
-## 9. **COPYRIGHT INFRINGEMENT POLICY**
+## 10. **COPYRIGHT INFRINGEMENT POLICY**
 
 Popsy is committed to protecting the rights of copyright rights holders and seeks to comply with all applicable laws and regulations regarding the protection of intellectual property.
 
@@ -124,7 +128,7 @@ Popsy may notify the owner or administrator of the affected Content so that he o
 
 Notices of claimed infringement and counter-notifications should be directed to the Designated Agent by mailing all required documentation to: Popsy, 575 7th Avenue, New York, NY, ATTN: COPYRIGHT INFRINGEMENT DESIGNATED AGENT or by email to privacy@popsy.io with the words "Attn Copyright Infringement Designated Agent" in the subject line.
 
-## 10. **WARRANTIES AND DISCLAIMERS**
+## 11. **WARRANTIES AND DISCLAIMERS**
 
 YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT: YOUR USE OF THE SERVICE IS AT YOUR SOLE RISK. THE SERVICE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS.
 
@@ -136,26 +140,26 @@ SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMIT
 
 Please also note that the Service is controlled and offered by Popsy from its facilities in the United States of America. The laws of other countries may differ regarding the access and use of the Service. Popsy makes no representations that the Service is appropriate or available for use in other locations. Those who access or use the Service from other jurisdictions do so on their own volition and at their own risk, and are responsible for compliance with local law.
 
-## 11. **LIABILITIES AND INDEMNITIES**
+## 12. **LIABILITIES AND INDEMNITIES**
 
 You shall defend, indemnify and hold harmless Popsy and its directors, officers, employees, representatives and agents ("**Related Parties**") against all demands, claims, actions, liabilities, losses, costs, damages or expenses whatsoever, known and unknown (including reasonable attorneys' fees) ("**Damages**") asserted against, imposed upon or incurred by Popsy and/or any of its Related Parties resulting from or arising out of any violation of the Terms of Use by You, and/or the use of Your Content, including, without limitation, any infringement of any third party's rights by Your use of the Service or through Content You Submit or the failure of Your Sponsored Content to comply with applicable law (including the FTC Guidelines).
 
 With respect to each release of rights by You (including any Guest) provided in the Terms of Use: IF YOU ARE A CALIFORNIA RESIDENT, YOU WAIVE CALIFORNIA CIVIL CODE §1542, WHICH SAYS: "A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM MUST HAVE MATERIALLY AFFECTED HIS SETTLEMENT WITH THE DEBTOR." WE WILL NOT BE LIABLE TO YOU FOR ANY LOST PROFITS OR OTHER CONSEQUENTIAL, SPECIAL, INDIRECT, OR INCIDENTAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS STATEMENT OR POPSY, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. POPSY WILL NOT BE LIABLE FOR DAMAGES OF ANY KIND INCLUDING, WITHOUT LIMITATION, COMPENSATORY, CONSEQUENTIAL, INCIDENTAL, INDIRECT, SPECIAL OR SIMILAR DAMAGES, THAT MAY RESULT FROM THE USE OF, OR THE INABILITY TO USE, THE CONTENT CONTAINED IN THE APP, WHETHER THE CONTENT IS PROVIDED OR OTHERWISE SUPPLIED BY POPSY OR ANY THIRD PARTY. THE LIMITATIONS, EXCLUSIONS AND DISCLAIMERS IN THIS SECTION AND ELSEWHERE IN THESE TERMS OF USE APPLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
 
-## 12. **PLATFORM PROVIDERS**
+## 13. **PLATFORM PROVIDERS**
 
 Platform providers, such as Apple Inc. and Google Inc., that make the App available for download ("**Platform Providers**") are not party to this Agreement. Platform Providers have no obligation whatsoever to furnish any maintenance and support services with respect to the App. In the event of any failure of the App to deliver any product or service purchased by You through the App (if applicable), You may notify the applicable Platform Provider, and such Platform Provider may refund payments made for such purchases (if applicable). To the maximum extent permitted by applicable law, Platform Providers will have no other obligation whatsoever with respect to the App. You acknowledge that Platform Providers are not responsible for addressing any claims relating to the App or Your possession and/or use of the App, including but not limited to: (i) product liability claims; (ii) any claim that the App fails to conform to any applicable legal or regulatory requirement; (iii) claims alleging infringement of intellectual property; and (iv) claims arising under consumer protection or similar legislation. We, not the Platform Providers, will be solely responsible for the investigation, defense, settlement and discharge of any such claims. Platform Providers are third party beneficiaries of this Section 14, and will have the right (and will be deemed to have accepted the right) to enforce the provisions of this Section 14 against You.
 
-## 13. PRIVACY
+## 14. PRIVACY
 
 To learn more about how Popsy protects Your personal information, please refer to the popsy [Privacy Policy](https://www.mushroomapp.github.io/privacy), which is incorporated by and made a part of these Terms of Use.
 
 By creating a Popsy account and using our services, you agree that Popsy can collect, use and share your information consistent with Popsy’s Privacy Policy. By using our services, you agree to provide us your contacts and other information in your device PhoneBook on a regular basis. You confirm you are authorized to provide us such numbers to allow us to provide our services. 
 
-## 14. ASSIGNMENT
+## 15. ASSIGNMENT
 Popsy may assign this Agreement to its successors, licensees, and affiliates. However, because the subject matter hereof is personal to You and Your Content, you may not assign this Agreement to any person or entity without Popsy’s prior written consent.
 
-## 15. **DISPUTE RESOLUTION**
+## 16. **DISPUTE RESOLUTION**
 YOU HEREBY WAIVE ALL RIGHTS TO PURSUE IN A COURT OF LAW ANY ACTION OR PROCEEDING INSTITUTED IN CONNECTION WITH THE SERVICE OR THESE TERMS OF USE.
 
 In the event of any dispute, controversy, or claim of any kind or nature arising under or in connection with the Terms of Use whether based on contract, tort, statute, fraud, misrepresentation or any other legal or equitable theory, including without limitation disputes as to the creation, validity, interpretation, breach, or termination of the Terms of Use (a “Dispute”), the party initiating the Dispute shall give to the other party written notice of the specific subject(s) of the Dispute (the "Dispute Notice") and the parties shall meet and negotiate in good faith, in New York, N.Y., in an effort to resolve the Dispute without the necessity of any formal proceeding.
@@ -175,12 +179,12 @@ The parties agree that any mediation or arbitration proceedings, testimony, or d
 Notwithstanding the foregoing, a party may disclose limited information if required in any judicial proceeding brought to enforce these arbitration provisions or any award rendered hereunder.
 
 
-## 16. **MISCELLANEOUS**
+## 17. **MISCELLANEOUS**
 
 Nothing in the Terms of Use shall be construed to create a partnership, joint venture or agency relationship between You and us. You may not assign any of Your rights or delegate any of Your duties under the Terms of Use without the prior written consent of Popsy. Popsy may assign this Agreement and/or any of its rights, and delegate its duties in its discretion. Any purported assignment which is inconsistent with the foregoing shall be null and void. The Terms of Use, its interpretation, performance or any breach thereof, shall be construed in accordance with, and all questions with respect thereto shall be determined by, the laws of the state of New York applicable to contracts entered into and wholly to be performed within said state without regard to conflicts of laws. No waiver of any breach of any provision of the Terms of Use shall constitute a waiver of any prior, concurrent or subsequent breach of the same or any other provisions, and no waiver shall be effective unless made in writing and signed by an authorized representative of the waiving party. In the event any provision of the Terms of Use shall for any reason be held to be invalid, illegal or unenforceable in any respect, the remaining provisions shall remain in full force and effect. In resolving any dispute or construing any provision hereunder, there shall be no presumptions made or inferences drawn (i) because the attorneys for one of the parties drafted the agreement; (ii) because of the drafting history of the agreement; or (iii) because of the inclusion of a provision not contained in a prior draft, or the deletion of a provision contained in a prior draft. All representations, warranties and indemnities contained herein or made by You in connection herewith shall survive any termination, expiration, or suspension of Your rights under the Terms of Use. Section headings are for convenience only and are not a part of the Terms of Use. The Terms of Use contain the entire understanding of the parties and cannot be amended except by a writing signed by both parties. No party hereto has relied on any statement, representation or promise of any other party or with any other officer, agent, employee or attorney for the other party in executing this Agreement except as expressly stated herein.
 
-## 17. **AMENDMENT**
+## 18. **AMENDMENT**
 
 Popsy reserves the right, in its sole discretion, to change, modify, add, or delete portions of the Terms of Use at any time. When using the Service, You may be subject to additional applicable guidelines or rules that may be posted from time to time. All of these guidelines and rules are deemed incorporated into the Terms of Use. While we may attempt to notify You when major changes are made to the Terms of Use, it is Your responsibility to review the Terms of Use periodically to check for changes. When Popsy makes changes, it will give the date of the most recent update in this space so You can be kept abreast by visiting this page. Popsy also reserves the right in its sole discretion and at any time to modify or discontinue, temporarily or permanently, the Service (or any part of it), with or without notice.
 
-(Terms of Use last updated: August 17th, 2017)
+(Terms of Use last updated: August 24th, 2017)
